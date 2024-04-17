@@ -1,0 +1,22 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutWireSphere referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSolidSphere referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutWireCone referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSolidCone referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutWireTorus referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSolidTorus referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\jerryrebuild\Documents\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\jerryrebuild\Documents\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\jerryrebuild\source\repos\TyTetris_273221010\x64\Debug\TyTetris_273221010.exe : fatal error LNK1120: 19 unresolved externals

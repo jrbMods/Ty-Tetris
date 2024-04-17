@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jerryrebuild\source\repos\TyTetris_273221010\TyTetris_273221010\main.cpp(142,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TyTetris_273221010.vcxproj -> C:\Users\jerryrebuild\source\repos\TyTetris_273221010\Debug\TyTetris_273221010.exe
